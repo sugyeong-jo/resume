@@ -6,7 +6,7 @@
 
 # Programming
 - skill: Python
-  description: 중상, 머신러닝 (Pytorch), 지도 시각화 (Pydeck, Geopandas), 최적화 (MIP, Cbc, METIS, Networkx) 사용 가능  
+  description: 중상, 머신러닝 (Pytorch), 지도 시각화 (Pydeck, Geopandas), 최적화 (MIP, Cbc, METIS, Networkx) 패키지 사용 가능  
 
 # Communications strategy
 - skill: R

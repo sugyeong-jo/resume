@@ -1,6 +1,6 @@
 # Site settings
-title: "Sugyeong Jo's Resume"
-description: "sugyeong Jo's CV"
+title: "Sugyeong Jo's CV"
+description: "@sugyeong-jo (github)"
 
 # Build settings
 markdown: kramdown

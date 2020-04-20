@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# KMAC 컨설팅 프로젝트
+- project: 인천경제산업정보테크노파크 경영진단을 통한 경영시스템 고도화 컨설팅 
+  role: 사원
+  duration: 2017 
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: 한국능률협회 (KMAC)에서 단기 프로젝트에 참여하여, 시장 조사 및 발표 자료 구성
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# 싸이버로지텍 연구 과제 프로젝트 
+- project: Large-scale Mixed Integer Programming Solver 개발
+  role: 연구원
+  duration: 2018 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Large-scale Mixed Integer Linear Programming 문제를 open source로 해결하기 위한 알고리즘 개발.

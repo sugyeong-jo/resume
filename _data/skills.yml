@@ -1,16 +1,12 @@
-# Skills
+# Programming Language
 # Programming
-- skill: Programming Language
-  description: 
-      - Python: 
-      - R: 
-      - Mysql: 
-      - Julia: 
+- skill: Python
+  description: 중상, 머신러닝 (Pytorch), 지도 시각화 (Pydeck, Geopandas), 최적화 (MIP, Cbc, METIS, Networkx) 사용 가능  
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: R
+  description: 중상 (데이터분석 준 전문가 (AdSP) 자격증 소유), 각종 데이터 통계 분석 가능, 최적화 모델 개발 가능 (Genetic Algorithm 을 이용한 MILP solver, Lagrangian Relaxation 등)
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Julia
+  description: 중급, 최적화 패키지 (JuMP, MathOptInterface, Juniper) 사용가능, MPS 파일 핸들링 가능, 최적화 모델 개발 가능 (Feasibility Pump, Lagrangian Relaxation)

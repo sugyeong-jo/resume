@@ -1,5 +1,10 @@
 # Programming Language
 # Programming
+
+- skill: 개발 환경
+  description: Linux, Visual studio code  
+
+# Programming
 - skill: Python
   description: 중상, 머신러닝 (Pytorch), 지도 시각화 (Pydeck, Geopandas), 최적화 (MIP, Cbc, METIS, Networkx) 사용 가능  
 
@@ -10,3 +15,9 @@
 # Digital content development and creation
 - skill: Julia
   description: 중급, 최적화 패키지 (JuMP, MathOptInterface, Juniper) 사용가능, MPS 파일 핸들링 가능, 최적화 모델 개발 가능 (Feasibility Pump, Lagrangian Relaxation)
+
+# Mysql
+- skill: Mysql
+  description: 대용량 csv 사용을 위한 DB 구성 가능, 각종 쿼리 구문 사용 가능 
+  
+  

@@ -23,7 +23,7 @@ resume_contact_address:         "울산광역시 울주군 유니스트길 50, U
 resume_header_contact_info:     "UNIST 경영공학부 • @jsk9390 • sugyeong.jo@unist.ac.kr"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>공유경제 시스템 최적화를 연구하는 조수경 입니다. Large-scale Mixed Integer Programming을 위한 알고리즘 개발을 중심으로 하고 있습니다. 이를 이용하여 공유 경제 시스템에서 Dynamic Pricing을 이용한 이동수단 배치 최적화 전략 도출을 목표로 하고 있습니다.   </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

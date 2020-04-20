@@ -17,3 +17,11 @@
   position: Large-scale MIP, Feasibility Pump, Lagrangian Relaxation, Genetic Algorithm, Cbc, CPLEX
   duration:   2018  &mdash; Present
   summary: 매우 큰 사이즈의 MPS 형태의 MILP 문제 (10만 X 10만)의 feasibilty solution을 효과적으로 찾기 위한 알고리즘을 개발 중이다.
+
+# Communications Coordinator
+- company: Paper
+  #position: IEEE 
+  duration:   2018  &mdash; Present
+  summary:  Paper <ul class="resume-item-list"><li> Lee, Changyong, et al. "Capacity-fading Behavior Analysis for Early Detection of Unhealthy Li-ion Batteries." IEEE Transactions on Industrial Electronics (2020) </li><li> To be continue.. </li></ul>
+
+

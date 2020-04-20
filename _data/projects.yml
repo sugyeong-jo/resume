@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # KMAC 컨설팅 프로젝트
-- project: 인천경제산업정보테크노파크 경영진단을 통한 경영시스템 고도화 컨설팅 
-  role: 사원
+- project: 경영진단을 통한 경영시스템 고도화 컨설팅 
+  role: 단기 참가 연구원
   duration: 2017 
   # url: "#"
-  description: 한국능률협회 (KMAC)에서 단기 프로젝트에 참여하여, 시장 조사 및 발표 자료 구성
+  description: 한국능률협회 (KMAC)에서 단기 프로젝트에 참여하여, 인천경제산업정보테크노파크 통합 TF 전략 수립을 위한 시장 조사 및 발표 자료 구성
 
 # 싸이버로지텍 연구 과제 프로젝트 
 - project: Large-scale Mixed Integer Programming Solver 개발
